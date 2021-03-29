@@ -1,0 +1,18 @@
+To create a new branch
+git checkout -b name-of-branch
+
+To fetch a branch from the remote repository 
+git fetch
+
+To switch to another local branch
+git checkout name-of-branch
+
+To pull latest changes from a remote repository
+
+git checkout repository-name
+git pull
+
+To push your changes to the remote repository (github)
+git add .
+git commit --m "message here"
+git push origin branch-name

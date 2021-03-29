@@ -1,0 +1,22 @@
+Q: What features should the social network app have?
+- Authorization (sign in, register, forgot password)
+- User/Business Profiles (Edit, View, Customize, Settings)
+- Live Chat (Direct Messages)
+- Image Galleries
+- Home Page
+- Privacy, ToS
+- Ad Space
+- Language Options (Internationalization, i18n)
+- Colorblind Options
+- Create Groups
+- Page Theme (Like dark theme)
+- Moderation / Admin Dashboard
+- Infinite Scroll
+
+Q: Which of these will be included in the MVP? (Minimum viable product)
+- Authorization
+- User/Business Profiles (Edit, View, Customize, Settings)
+- Home Page
+- Privacy, ToS
+- Language Options (Internationalization, i18n)
+- Moderation / Admin Dashboard
