@@ -12,8 +12,6 @@ Dimitar Spiroski
 
 Borche Borisovski
 
-Ivica Sarevski (borrowed by team RED)
-
 
 # Team RED
 
@@ -26,6 +24,8 @@ Dimitar Aranikov
 Egzon Zendeli
 
 Ismail Bajrami
+
+Ivica Sarevski (borrowed from team Blue)
 
 
 # Team GREEN
