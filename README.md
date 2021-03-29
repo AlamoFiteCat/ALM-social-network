@@ -25,7 +25,7 @@ Egzon Zendeli
 
 Ismail Bajrami
 
-Ivica Sarevski (borrowed from team Blue)
+Ivica Sarevski
 
 
 # Team GREEN
