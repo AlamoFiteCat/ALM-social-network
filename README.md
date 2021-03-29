@@ -12,7 +12,7 @@ Dimitar Spiroski
 
 Borche Borisovski
 
-Ivica Sarevski
+Ivica Sarevski (borrowed by team RED)
 
 
 # Team RED
