@@ -1,0 +1,17 @@
+Software Design:
+
+Front End: HTML5, CSS3, Javascript
+Back End: NodeJS/Express
+Database: MongoDB/Mongo Atlas
+
+UI/UX:
+- Font: Nunito
+- Primary Color: #4834d4
+- Accent Color: #f0932b
+- Warn Color: #c23616
+- Light Color:
+- Dark Color:
+
+https://flatuicolors.com/
+
+Mockups

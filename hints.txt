@@ -1,18 +1,34 @@
-To create a new branch
+* To create a new branch
 git checkout -b name-of-branch
 
-To fetch a branch from the remote repository 
+* To fetch a branch from the remote repository 
 git fetch
 
-To switch to another local branch
+* To switch to another local branch
 git checkout name-of-branch
 
-To pull latest changes from a remote repository
+* To pull latest changes from a remote repository
 
 git checkout repository-name
 git pull
 
-To push your changes to the remote repository (github)
+* To push your changes to the remote repository (github)
 git add .
 git commit --m "message here"
 git push origin branch-name
+
+* Before you push your changes (from your feature branches), you want to pull all latest stuff from develop
+git checkout develop
+git pull
+git checkout my-feature-branch (Every time you start a new task, you wanna create a new branch for that task)
+git merge develop
+
+--------------------------------------------------------------
+Project Summary: Summary of requirements. All of them, and the ones in the MVP.
+Product Backlog: This is where you put the epics. (Epics are monumental tasks that deal with some feature.)
+Sprint Backlog: This is where you put all stories. Every story that isn't currently being worked on.
+Doing: This is where you put all the stories that are currently being worked on.
+Testing: This is where you put a story after you're done with development.
+Done: This is where you put a story story if everything is fine.
+
+
