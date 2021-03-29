@@ -12,20 +12,20 @@ Dimitar Spiroski
 
 Borche Borisovski
 
-Ivica Sarevski
+Nikola Aranikov
 
 
 # Team RED
 
 Clirim Misini
 
-Nikola Aranikov
-
 Dimitar Aranikov
 
 Egzon Zendeli
 
 Ismail Bajrami
+
+Ivica Sarevski
 
 
 # Team GREEN
