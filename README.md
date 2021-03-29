@@ -12,12 +12,12 @@ Dimitar Spiroski
 
 Borche Borisovski
 
+Nikola Aranikov
+
 
 # Team RED
 
 Clirim Misini
-
-Nikola Aranikov
 
 Dimitar Aranikov
 
